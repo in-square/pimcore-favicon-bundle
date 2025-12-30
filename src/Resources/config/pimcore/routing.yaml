@@ -1,0 +1,6 @@
+insquare_pimcore_favicon:
+    resource: "../../../Controller/Admin/"
+    type: annotation
+    prefix: /admin/bundle/insquare-favicon
+    options:
+        expose: true
